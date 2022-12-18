@@ -1,0 +1,56 @@
+{
+  "contacts": [
+    {
+      "fullname": "امیر رمضانی",
+      "photo": "https://img.freepik.com/free-photo/beautiful-milky-way-night-sky_53876-139825.jpg?w=900&t=st=1669471753~exp=1669472353~hmac=a68cf4709222c1ba04ceadb6465bbd89be7cc99c05d71c97308f9bca09415c1c",
+      "number": "09123456789",
+      "email": "test@test.com",
+      "job": "برنامه نویس",
+      "group": "1",
+      "id": 1,
+      "mobile": [
+        "09123456789"
+      ]
+    },
+    {
+      "fullname": "test",
+      "photo": "",
+      "number": "09123456789",
+      "email": "test@test.com",
+      "job": "برنامه نویس",
+      "group": "3",
+      "id": 2
+    },
+    {
+      "fullname": "test",
+      "photo": "test",
+      "mobile": "09112312312",
+      "email": "test@test.com",
+      "job": "testjob",
+      "group": "2",
+      "id": 3
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوست"
+    },
+    {
+      "id": "3",
+      "name": "فامیل"
+    },
+    {
+      "id": "4",
+      "name": "سرویس"
+    },
+    {
+      "id": "5",
+      "name": "آشنا"
+    }
+  ]
+}

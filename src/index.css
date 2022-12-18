@@ -1,0 +1,29 @@
+body {
+  background-color: #252a36 !important;
+  font-family: "vazir", BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input[type="text"]::-webkit-input-placeholder,
+input[type="email"]::-webkit-input-placeholder,
+input[type="number"]::-webkit-input-placehonumber {
+  color: #f8f8f4;
+  opacity: 50%;
+}
+
+input[type="text"],
+input[type="eamil"],
+input[type="number"] {
+  color: #f8f8f4 !important;
+  background-color: #44475a !important;
+  border-color: #bd93f9 !important;
+}
+
+.form-control {
+  background-color: #44475a !important;
+  color: #f8f8f4 !important;
+  border-color: #bd93f9 !important;
+}
